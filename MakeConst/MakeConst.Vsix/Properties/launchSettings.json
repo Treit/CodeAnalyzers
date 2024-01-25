@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MakeConst.Vsix": {
+      "commandName": "Project"
+    }
+  }
+}
